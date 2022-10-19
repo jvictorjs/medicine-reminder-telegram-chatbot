@@ -1,12 +1,12 @@
 ## medicine-reminder-telegram-chatbot
-A useful chatbot that reminds you when it is time to take that pill.
+A useful chatbot that reminds you when it is time to take that pill. This is one of many Telegram Bot I created.
 
-Made in 2017, this is one of my first Telegram Bots. I was taking my first steps with HTTP based APIs using JavaScript and Google Apps Script so the code might not be very clean. To publish it here on GitHub I removed the bot keys and users references like ids and e-mail.
+Made in 2019, this is one of my first chatbots. To publish the project here on GitHub I removed the bot keys and users references like ids and e-mails.
 
 ## Techs
-- Google Apps Script
+- Google Apps Script (web apps, triggers and more)
 - JavaScript
-- Google Sheets
+- Google Sheets (store messages)
 - Telegram Bot API
 
 Are you curious about how to easily create Telegram Bots with Google Apps Script? You can watch my free coding lessons on my course website: https://course.jvictor.com.br
