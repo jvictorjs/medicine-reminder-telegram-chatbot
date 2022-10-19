@@ -3,6 +3,9 @@ A useful chatbot that reminds you when it is time to take that pill. This is one
 
 Made in 2019, this is one of my first chatbots. To publish the project here on GitHub I removed the bot keys and users references like ids and e-mails.
 
+### Language
+Portuguese (brazilian)
+
 ## Techs
 - Google Apps Script (web apps, triggers and more)
 - JavaScript
